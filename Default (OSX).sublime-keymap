@@ -1,0 +1,5 @@
+[  
+    {   
+        "keys": ["super+alt+v"], "command": "paste_as_one_line"
+    }  
+]
